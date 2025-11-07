@@ -385,8 +385,7 @@ Use it:
 ## 📞 Support
 
 If you need help:
-- **Discord**: [Your Discord Server]
-- **Telegram**: [Your Telegram Group]
+- **Discord**: https://discord.gg/Gvduk5QpZp
 - **GitHub Issues**: https://github.com/ProjectEclipseOfi/ota/issues
 
 ---
